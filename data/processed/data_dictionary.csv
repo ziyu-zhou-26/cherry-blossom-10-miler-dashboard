@@ -1,0 +1,24 @@
+Column,Type,Non-Null Count,Sample Value
+Name,object,19626,Charles Hicks
+Gender,object,19626,M
+Age,float64,19624,23.0
+Race,object,19626,10 Mile
+State,object,19540,OR
+Country,object,19626,USA
+Overall Place,int64,19626,1
+Gender Place,float64,19601,1.0
+Age Group Place,float64,19598,1.0
+Finish Time,object,19626,00:45:14
+Pace,object,19626,04:32
+Is_US,bool,19626,True
+Finish Time (seconds),int64,19626,2714
+Finish Time (minutes),float64,19626,45.233333333333334
+Pace (sec/mile),int64,19626,272
+Pace (min/mile),float64,19626,4.533333333333333
+Age Group,category,19623,20-24
+Census Region,object,19540,West
+Census Division,object,19540,Pacific
+Is_Local,bool,19626,False
+Overall Percentile,float64,19626,0.0050952817690818305
+Gender Percentile,float64,19601,0.011799410029498525
+Age Group Percentile,float64,19598,0.1519756838905775
